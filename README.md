@@ -34,7 +34,7 @@ This question explores global fertility patterns using a dataset of total fertil
 
 ### Visualizations
 #### 📊 Top 20 Fertility Rates in 2000
-![Top 20 Fertility Rates](fertility_snapshot_2000.png)
+![Top 20 Fertility Rates](Homework 2/q1/fertility_snapshot_2000.png)
 
 #### 📉 Fertility Rate Trends Over Time (1800–2020)
 ![Fertility Trends](fertility_trends.png)
